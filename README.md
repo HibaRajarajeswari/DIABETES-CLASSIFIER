@@ -1,16 +1,16 @@
-# Ex.No: 10 Learning – Use Supervised Learning  
+# Ex.No: 13  Machine Learning – Mini Project  
 ## DATE: 22/4/2024                                                                           
 ## REGISTER NUMBER : 212221040084
 # AIM: 
 To write a program to train the classifier for Diabetes.
 #  Algorithm:
-Step 1: Import packages
-Step 2: Get the data
-Step 3: Split the data
-Step 4: Scale the data
-Step 5: Instantiate model
-Step 6: Create Gradio Function
-Step 7: Print Result
+Step 1: Import packages.
+Step 2: Get the data.
+Step 3: Split the data.
+Step 4: Scale the data.
+Step 5: Instantiate model.
+Step 6: Create Gradio Function.
+Step 7: Print Result.
 # Program:
 ```
 import numpy as np
