@@ -1,6 +1,6 @@
 # Ex.No: 13  Machine Learning – Mini Project  
 ## DATE: 22/4/2024                                                                           
-## REGISTER NUMBER : 212221040084
+## REGISTER NUMBER : 212221040056
 # AIM: 
 To write a program to train the classifier for Diabetes.
 #  Algorithm:
